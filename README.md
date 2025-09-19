@@ -7,7 +7,7 @@ Este repositório contém arquivos escritos em diferentes linguagens de programa
 
 Demonstrar a sintaxe básica e estrutura de diferentes linguagens de programação através de um simples exemplo: exibir "Hello, World" no output.
 
-### Linguagens incluídas até o momento:
+### Linguagens incluídas:
 
 - Python
 - C
