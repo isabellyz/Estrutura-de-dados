@@ -1,21 +1,27 @@
 # Estrutura de Dados
 
-Este repositório contém arquivos escritos em diferentes linguagens de programação. Cada arquivo imprime a clássica frase 'HELLO WORLD'
+Este repositório contém arquivos escritos em diferentes linguagens de programação.  
+Cada pasta contém arquivos com algumas funções das linguagensm incluindo até arquivos que imprimem a clássica frase **"HELLO WORLD"**.
 
+## 🎯 Objetivo
 
-### Objetivo
+Demonstrar a sintaxe básica e a estrutura de diferentes linguagens de programação através de um simples output. 
 
-Demonstrar a sintaxe básica e estrutura de diferentes linguagens de programação através de um simples exemplo: exibir "Hello, World" no output.
+## 💻 Linguagens incluídas
 
-### Linguagens incluídas:
+- Python  
+- C  
+- C++  
+- C#  
+- Java  
 
-- Python
-- C
-- C++
-- C#
-- Java
+## 📂 Organização do repositório
 
+O repositório está dividido em **três pastas**, cada uma contendo alguns códigos relacionados às **cinco linguagens listadas acima**.  
+Os códigos estão organizados e identificados pelo nome das pastas, correspondendo à linguagem de programação utilizada.  
 
-### Como foi executado
+## ▶️ Como foi executado
 
-Todos os códigos foram testado em https://onecompiler.com/
+Todos os códigos foram testados em:  
+👉 [https://onecompiler.com/](https://onecompiler.com/)  
+
